@@ -1,0 +1,79 @@
+com.birdly.app-jetified-runtime-saveable-release-0 C:\Users\Rakshit\.gradle\caches\transforms-3\02b6002594911b7ebede6e61a0b6a91f\transformed\jetified-runtime-saveable-release\res
+com.birdly.app-jetified-camera-camera2-1.3.1-1 C:\Users\Rakshit\.gradle\caches\transforms-3\0819b56af9ac5db0ded3c04cea714c32\transformed\jetified-camera-camera2-1.3.1\res
+com.birdly.app-jetified-lottie-5.2.0-2 C:\Users\Rakshit\.gradle\caches\transforms-3\09ef8a69267c7f007244c0c9ee18c4d1\transformed\jetified-lottie-5.2.0\res
+com.birdly.app-jetified-appcompat-resources-1.6.1-3 C:\Users\Rakshit\.gradle\caches\transforms-3\0d46a3d1939300e72b76aeecdcf7defd\transformed\jetified-appcompat-resources-1.6.1\res
+com.birdly.app-jetified-ui-geometry-release-4 C:\Users\Rakshit\.gradle\caches\transforms-3\0e6449464c2d8014e1b36d63edac4724\transformed\jetified-ui-geometry-release\res
+com.birdly.app-jetified-lifecycle-viewmodel-compose-2.7.0-5 C:\Users\Rakshit\.gradle\caches\transforms-3\19c421e512c487001cfdb5cb24db4af0\transformed\jetified-lifecycle-viewmodel-compose-2.7.0\res
+com.birdly.app-jetified-lifecycle-viewmodel-ktx-2.7.0-6 C:\Users\Rakshit\.gradle\caches\transforms-3\1d9be8677f21fda95b106ca49ceea2fb\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.birdly.app-jetified-ui-util-release-7 C:\Users\Rakshit\.gradle\caches\transforms-3\20722c9504b209fd810e4120e8f4bf43\transformed\jetified-ui-util-release\res
+com.birdly.app-jetified-ui-tooling-preview-release-8 C:\Users\Rakshit\.gradle\caches\transforms-3\2218b285ebdc94951735afa918b333db\transformed\jetified-ui-tooling-preview-release\res
+com.birdly.app-jetified-media3-session-1.2.1-9 C:\Users\Rakshit\.gradle\caches\transforms-3\2624817bfb0e380bfaff491530a6ce56\transformed\jetified-media3-session-1.2.1\res
+com.birdly.app-jetified-profileinstaller-1.3.1-10 C:\Users\Rakshit\.gradle\caches\transforms-3\28fa130c84efede5661c7bd6c28aad99\transformed\jetified-profileinstaller-1.3.1\res
+com.birdly.app-jetified-camera-video-1.3.1-11 C:\Users\Rakshit\.gradle\caches\transforms-3\2d9d405ecc70874a5496e777c86f3931\transformed\jetified-camera-video-1.3.1\res
+com.birdly.app-jetified-navigation-compose-2.7.7-12 C:\Users\Rakshit\.gradle\caches\transforms-3\2f841ac990b6e7c102791bb2f1bf4845\transformed\jetified-navigation-compose-2.7.7\res
+com.birdly.app-jetified-hilt-navigation-compose-1.1.0-13 C:\Users\Rakshit\.gradle\caches\transforms-3\326c595b79b053bfdbf9d90bfc3453b6\transformed\jetified-hilt-navigation-compose-1.1.0\res
+com.birdly.app-jetified-camera-core-1.3.1-14 C:\Users\Rakshit\.gradle\caches\transforms-3\331af73453c517a78f5de923c14c5777\transformed\jetified-camera-core-1.3.1\res
+com.birdly.app-jetified-hilt-navigation-1.1.0-15 C:\Users\Rakshit\.gradle\caches\transforms-3\342f5ef0d7f8bf6c1125af4b055ee83f\transformed\jetified-hilt-navigation-1.1.0\res
+com.birdly.app-jetified-ui-text-release-16 C:\Users\Rakshit\.gradle\caches\transforms-3\34efac3f08e139727a49ac680a228b3a\transformed\jetified-ui-text-release\res
+com.birdly.app-jetified-savedstate-1.2.1-17 C:\Users\Rakshit\.gradle\caches\transforms-3\3c287cd43328f5499648010e3c6e9a2f\transformed\jetified-savedstate-1.2.1\res
+com.birdly.app-navigation-common-ktx-2.7.7-18 C:\Users\Rakshit\.gradle\caches\transforms-3\3e1564d251dc58aeb0cd290715116cd0\transformed\navigation-common-ktx-2.7.7\res
+com.birdly.app-databinding-runtime-8.2.2-19 C:\Users\Rakshit\.gradle\caches\transforms-3\446a27832b2f38a3b7c1dfa0a4e11a1c\transformed\databinding-runtime-8.2.2\res
+com.birdly.app-jetified-ui-test-manifest-1.6.1-20 C:\Users\Rakshit\.gradle\caches\transforms-3\47c84e7c3d0a13397f2f7a66ae5cd138\transformed\jetified-ui-test-manifest-1.6.1\res
+com.birdly.app-lifecycle-livedata-2.7.0-21 C:\Users\Rakshit\.gradle\caches\transforms-3\4ca24f6fb49759d386493972f7460c3e\transformed\lifecycle-livedata-2.7.0\res
+com.birdly.app-databinding-adapters-8.2.2-22 C:\Users\Rakshit\.gradle\caches\transforms-3\56cb71cd8ee796830d9da188eef9b608\transformed\databinding-adapters-8.2.2\res
+com.birdly.app-jetified-savedstate-ktx-1.2.1-23 C:\Users\Rakshit\.gradle\caches\transforms-3\579031fe15b21c1893f955e2d7344d0d\transformed\jetified-savedstate-ktx-1.2.1\res
+com.birdly.app-core-1.12.0-24 C:\Users\Rakshit\.gradle\caches\transforms-3\57a0195da03f63b73c2a5fdcef20a2e7\transformed\core-1.12.0\res
+com.birdly.app-lifecycle-viewmodel-2.7.0-25 C:\Users\Rakshit\.gradle\caches\transforms-3\58c7d81582c4357d4ae8994bcc4c94e3\transformed\lifecycle-viewmodel-2.7.0\res
+com.birdly.app-lifecycle-livedata-core-2.7.0-26 C:\Users\Rakshit\.gradle\caches\transforms-3\5d068aadd821241397f5d84fc1fa284b\transformed\lifecycle-livedata-core-2.7.0\res
+com.birdly.app-jetified-ui-tooling-release-27 C:\Users\Rakshit\.gradle\caches\transforms-3\5d6acc3588e8546ee32bcc4c627dff67\transformed\jetified-ui-tooling-release\res
+com.birdly.app-jetified-material-icons-extended-release-28 C:\Users\Rakshit\.gradle\caches\transforms-3\5f4f88982569ae4fcebd4976e984ae55\transformed\jetified-material-icons-extended-release\res
+com.birdly.app-appcompat-1.6.1-29 C:\Users\Rakshit\.gradle\caches\transforms-3\66290fbee4b77b72f06b0ba53d008460\transformed\appcompat-1.6.1\res
+com.birdly.app-jetified-material-release-30 C:\Users\Rakshit\.gradle\caches\transforms-3\666d654fe2908ccbf8d433ed7847a888\transformed\jetified-material-release\res
+com.birdly.app-jetified-lifecycle-process-2.7.0-31 C:\Users\Rakshit\.gradle\caches\transforms-3\6aede7f88f49e963bc540056fe54db9f\transformed\jetified-lifecycle-process-2.7.0\res
+com.birdly.app-navigation-runtime-2.7.7-32 C:\Users\Rakshit\.gradle\caches\transforms-3\6d04bd90a9ac7fa864eb2fe3f2f3eeee\transformed\navigation-runtime-2.7.7\res
+com.birdly.app-recyclerview-1.3.0-33 C:\Users\Rakshit\.gradle\caches\transforms-3\6d6567546baaf323cf7424a4d6ce470b\transformed\recyclerview-1.3.0\res
+com.birdly.app-jetified-startup-runtime-1.1.1-34 C:\Users\Rakshit\.gradle\caches\transforms-3\6eba7ee1399b7e233d0e76648c7e81ce\transformed\jetified-startup-runtime-1.1.1\res
+com.birdly.app-jetified-activity-1.8.2-35 C:\Users\Rakshit\.gradle\caches\transforms-3\71440a43c11b81867998305c49b22986\transformed\jetified-activity-1.8.2\res
+com.birdly.app-jetified-ui-unit-release-36 C:\Users\Rakshit\.gradle\caches\transforms-3\7896761470c9867cc64a728dadded7b5\transformed\jetified-ui-unit-release\res
+com.birdly.app-jetified-camera-view-1.3.1-37 C:\Users\Rakshit\.gradle\caches\transforms-3\792c4025a3c3b29e04cfc151fff2556b\transformed\jetified-camera-view-1.3.1\res
+com.birdly.app-jetified-ui-tooling-data-release-38 C:\Users\Rakshit\.gradle\caches\transforms-3\7cefc1c4e09f693bb333a08aaa4a94a1\transformed\jetified-ui-tooling-data-release\res
+com.birdly.app-jetified-lifecycle-runtime-compose-2.7.0-39 C:\Users\Rakshit\.gradle\caches\transforms-3\7ebecf2c5a37e4cb44f80d22df22e084\transformed\jetified-lifecycle-runtime-compose-2.7.0\res
+com.birdly.app-jetified-foundation-layout-release-40 C:\Users\Rakshit\.gradle\caches\transforms-3\7f22a7fec639ba2c938c805b9db42aaf\transformed\jetified-foundation-layout-release\res
+com.birdly.app-lifecycle-runtime-2.7.0-41 C:\Users\Rakshit\.gradle\caches\transforms-3\7fcfc83c2dbf0f2ce147e38c4dafb51b\transformed\lifecycle-runtime-2.7.0\res
+com.birdly.app-jetified-material3-release-42 C:\Users\Rakshit\.gradle\caches\transforms-3\87c260c4a2747db67637837752880016\transformed\jetified-material3-release\res
+com.birdly.app-jetified-activity-compose-1.8.2-43 C:\Users\Rakshit\.gradle\caches\transforms-3\8fbc4284247ddeda37a06ad44af634dc\transformed\jetified-activity-compose-1.8.2\res
+com.birdly.app-jetified-lifecycle-livedata-core-ktx-2.7.0-44 C:\Users\Rakshit\.gradle\caches\transforms-3\901d97f434e55244eeee11b939541d58\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.birdly.app-jetified-material-ripple-release-45 C:\Users\Rakshit\.gradle\caches\transforms-3\91e34a855cd5b40feb5a9e33a2bb49d8\transformed\jetified-material-ripple-release\res
+com.birdly.app-jetified-activity-ktx-1.8.2-46 C:\Users\Rakshit\.gradle\caches\transforms-3\9b367437f5c754fbe98f051dfdb5829b\transformed\jetified-activity-ktx-1.8.2\res
+com.birdly.app-navigation-common-2.7.7-47 C:\Users\Rakshit\.gradle\caches\transforms-3\9d450ce64d7212a9f62080e874e9121f\transformed\navigation-common-2.7.7\res
+com.birdly.app-jetified-media3-exoplayer-1.2.1-48 C:\Users\Rakshit\.gradle\caches\transforms-3\9ecf7ded416183367f9651b16214601e\transformed\jetified-media3-exoplayer-1.2.1\res
+com.birdly.app-jetified-coil-base-2.5.0-49 C:\Users\Rakshit\.gradle\caches\transforms-3\a8ca4a9c404e81985ef56e35c3d42636\transformed\jetified-coil-base-2.5.0\res
+com.birdly.app-jetified-runtime-release-50 C:\Users\Rakshit\.gradle\caches\transforms-3\ac079f52b85702ff6f6b30f203d42063\transformed\jetified-runtime-release\res
+com.birdly.app-jetified-camera-lifecycle-1.3.1-51 C:\Users\Rakshit\.gradle\caches\transforms-3\aece26102327b87227c693f47a65c5cc\transformed\jetified-camera-lifecycle-1.3.1\res
+com.birdly.app-jetified-customview-poolingcontainer-1.0.0-52 C:\Users\Rakshit\.gradle\caches\transforms-3\b0220e017041fc9761595eb00ae5e254\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.birdly.app-navigation-runtime-ktx-2.7.7-53 C:\Users\Rakshit\.gradle\caches\transforms-3\b5d4cc8fda851211336decb2d37dab28\transformed\navigation-runtime-ktx-2.7.7\res
+com.birdly.app-jetified-emoji2-views-helper-1.3.0-54 C:\Users\Rakshit\.gradle\caches\transforms-3\b6343afdca3ded69704ef36808d1dc78\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.birdly.app-jetified-core-ktx-1.12.0-55 C:\Users\Rakshit\.gradle\caches\transforms-3\b6d12d4d56ea806a175052b07e21bd48\transformed\jetified-core-ktx-1.12.0\res
+com.birdly.app-core-runtime-2.2.0-56 C:\Users\Rakshit\.gradle\caches\transforms-3\bb189c402abf22f468773ade96d9e5ea\transformed\core-runtime-2.2.0\res
+com.birdly.app-jetified-lifecycle-service-2.7.0-57 C:\Users\Rakshit\.gradle\caches\transforms-3\c6530bdcb00f909c46e81df4b14b390c\transformed\jetified-lifecycle-service-2.7.0\res
+com.birdly.app-jetified-media3-ui-1.2.1-58 C:\Users\Rakshit\.gradle\caches\transforms-3\d362a3a39e411cca89181b31b7c34af2\transformed\jetified-media3-ui-1.2.1\res
+com.birdly.app-jetified-animation-release-59 C:\Users\Rakshit\.gradle\caches\transforms-3\d4a35c160ae22f549a1eabd998dacb6a\transformed\jetified-animation-release\res
+com.birdly.app-jetified-lifecycle-runtime-ktx-2.7.0-60 C:\Users\Rakshit\.gradle\caches\transforms-3\d5f7109e38183b4efd8a570be003cd9a\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.birdly.app-media-1.6.0-61 C:\Users\Rakshit\.gradle\caches\transforms-3\d7bbe539c8660832f5f6c87ea639048d\transformed\media-1.6.0\res
+com.birdly.app-fragment-1.5.1-62 C:\Users\Rakshit\.gradle\caches\transforms-3\dad09ba683ffa7978c68939366d82bfe\transformed\fragment-1.5.1\res
+com.birdly.app-jetified-ui-graphics-release-63 C:\Users\Rakshit\.gradle\caches\transforms-3\dae8f140c47225e3de3a4925770d5657\transformed\jetified-ui-graphics-release\res
+com.birdly.app-jetified-animation-core-release-64 C:\Users\Rakshit\.gradle\caches\transforms-3\db088792a4979077058537d4a3a6fe64\transformed\jetified-animation-core-release\res
+com.birdly.app-jetified-ui-release-65 C:\Users\Rakshit\.gradle\caches\transforms-3\ebf6ba493704cddd0cc854db3e267652\transformed\jetified-ui-release\res
+com.birdly.app-jetified-annotation-experimental-1.4.0-66 C:\Users\Rakshit\.gradle\caches\transforms-3\f01f63b0e9075d543920abe93fa8cdf1\transformed\jetified-annotation-experimental-1.4.0\res
+com.birdly.app-jetified-emoji2-1.3.0-67 C:\Users\Rakshit\.gradle\caches\transforms-3\f681ca3c16b79909e963e338721def10\transformed\jetified-emoji2-1.3.0\res
+com.birdly.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-68 C:\Users\Rakshit\.gradle\caches\transforms-3\f6d563d97707683cdbc373c7431b3bcd\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.birdly.app-jetified-foundation-release-69 C:\Users\Rakshit\.gradle\caches\transforms-3\fb73f717f0fd8f2dcaebba9cc0d27cb7\transformed\jetified-foundation-release\res
+com.birdly.app-jetified-material-icons-core-release-70 C:\Users\Rakshit\.gradle\caches\transforms-3\ff6df691dc7046df4fe8852a4c110129\transformed\jetified-material-icons-core-release\res
+com.birdly.app-development-71 C:\Users\Rakshit\Desktop\Bird identifier\app\build\generated\res\resValues\development\debug
+com.birdly.app-packageDevelopmentDebugResources-72 C:\Users\Rakshit\Desktop\Bird identifier\app\build\intermediates\incremental\developmentDebug\packageDevelopmentDebugResources\merged.dir
+com.birdly.app-packageDevelopmentDebugResources-73 C:\Users\Rakshit\Desktop\Bird identifier\app\build\intermediates\incremental\developmentDebug\packageDevelopmentDebugResources\stripped.dir
+com.birdly.app-merged_res-74 C:\Users\Rakshit\Desktop\Bird identifier\app\build\intermediates\merged_res\developmentDebug
+com.birdly.app-debug-75 C:\Users\Rakshit\Desktop\Bird identifier\app\src\debug\res
+com.birdly.app-development-76 C:\Users\Rakshit\Desktop\Bird identifier\app\src\development\res
+com.birdly.app-developmentDebug-77 C:\Users\Rakshit\Desktop\Bird identifier\app\src\developmentDebug\res
+com.birdly.app-main-78 C:\Users\Rakshit\Desktop\Bird identifier\app\src\main\res
