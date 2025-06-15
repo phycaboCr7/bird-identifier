@@ -58,7 +58,7 @@ fun HomeScreen(
         // Camera Button with embossed effect
         AnimatedVisibility(
             visible = isAnimating,
-            enter = fadeIn(delayMillis = 200) + slideInVertically { it / 2 }
+            enter = fadeIn(animationSpec = tween(delayMillis = 200)) + slideInVertically { it / 2 }
         ) {
             EmbossedButton(
                 onClick = onCameraClick,
@@ -73,7 +73,7 @@ fun HomeScreen(
         // Gallery Button with embossed effect
         AnimatedVisibility(
             visible = isAnimating,
-            enter = fadeIn(delayMillis = 400) + slideInVertically { it / 2 }
+            enter = fadeIn(animationSpec = tween(delayMillis = 400)) + slideInVertically { it / 2 }
         ) {
             EmbossedButton(
                 onClick = onGalleryClick,
@@ -96,7 +96,7 @@ private fun EmbossedButton(
     modifier: Modifier = Modifier
 ) {
     val infiniteTransition = rememberInfiniteTransition(label = "button")
-    val elevation by infiniteTransition.animateFloat(
+    val elevationRaw by infiniteTransition.animateFloat(
         initialValue = 8f,
         targetValue = 12f,
         animationSpec = infiniteRepeatable(
@@ -110,7 +110,7 @@ private fun EmbossedButton(
         onClick = onClick,
         modifier = modifier
             .shadow(
-                elevation = elevation,
+                elevation = elevationRaw.dp,
                 shape = RoundedCornerShape(16.dp),
                 spotColor = MaterialTheme.colorScheme.primary
             ),

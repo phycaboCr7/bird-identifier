@@ -14,11 +14,9 @@ import kotlinx.coroutines.delay
 @Composable
 fun MainScreen() {
     var isSplashVisible by remember { mutableStateOf(true) }
-    val splashAnimationSpec = remember { 
-        LottieCompositionSpec.RawRes(R.raw.bird_splash)
-    }
-    val splashProgress by animateLottieCompositionAsState(
-        composition = splashAnimationSpec,
+    val composition by rememberLottieComposition(LottieCompositionSpec.RawRes(com.birdly.app.R.raw.bird_splash))
+    val progress by animateLottieCompositionAsState(
+        composition = composition,
         iterations = 1,
         speed = 1f
     )
@@ -38,8 +36,8 @@ fun MainScreen() {
             contentAlignment = Alignment.Center
         ) {
             LottieAnimation(
-                composition = splashAnimationSpec,
-                progress = { splashProgress }
+                composition = composition,
+                progress = progress
             )
         }
     }

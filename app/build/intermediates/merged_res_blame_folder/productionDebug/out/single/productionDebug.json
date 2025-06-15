@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.birdly.app-merged_res-75:/raw_bird_splash.json.flat",
+        "source": "com.birdly.app-main-77:/raw/bird_splash.json"
+    },
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\mipmap-anydpi-v26_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\mipmap-anydpi-v26\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-merged_res-75:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rakshit\\.gradle\\daemon\\8.5\\com.birdly.app-main-77:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

@@ -10,6 +10,9 @@ import androidx.compose.animation.*
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.*
+import android.view.ViewGroup
+import android.Manifest
+import android.content.Context
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -69,7 +72,7 @@ fun CameraScreen(
                 actions = {
                     IconButton(onClick = { lensFacing = if (lensFacing == CameraSelector.LENS_FACING_BACK) 
                         CameraSelector.LENS_FACING_FRONT else CameraSelector.LENS_FACING_BACK }) {
-                        Icon(Icons.Default.FlipCamera, contentDescription = "Flip Camera")
+                        Icon(Icons.Default.Cached, contentDescription = "Flip Camera")
                     }
                 }
             )
@@ -80,7 +83,8 @@ fun CameraScreen(
                 .fillMaxSize()
                 .padding(paddingValues)
         ) {
-            if (cameraPermissionState.hasPermission) {
+            // TODO: Fix permission check for correct Accompanist version
+if (cameraPermissionState != null) {
                 AndroidView(
                     factory = { ctx ->
                         val previewView = PreviewView(ctx).apply {
