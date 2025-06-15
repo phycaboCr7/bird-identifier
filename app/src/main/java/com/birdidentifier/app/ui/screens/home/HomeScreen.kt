@@ -41,6 +41,8 @@ fun HomeScreen(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.spacedBy(24.dp)
     ) {
+        Text("Home Screen Loaded", style = MaterialTheme.typography.titleLarge, color = MaterialTheme.colorScheme.primary)
+
         // Title with animation
         AnimatedVisibility(
             visible = isAnimating,

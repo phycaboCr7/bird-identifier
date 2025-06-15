@@ -7,6 +7,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.compose.foundation.background
 import com.airbnb.lottie.compose.*
 import kotlinx.coroutines.delay
 
@@ -48,10 +49,14 @@ fun MainScreen() {
         exit = slideOutVertically() + fadeOut()
     ) {
         Column(
-            modifier = Modifier.fillMaxSize(),
-            verticalArrangement = Arrangement.Center,
-            horizontalAlignment = Alignment.CenterHorizontally
+            modifier = Modifier
+                .fillMaxSize()
+                .background(MaterialTheme.colorScheme.background)
+                .padding(16.dp),
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Center
         ) {
+            Text("Bird Identifier App Loaded", style = MaterialTheme.typography.titleLarge, color = MaterialTheme.colorScheme.primary)
             Text(
                 text = "Welcome to Birdly",
                 style = MaterialTheme.typography.titleLarge,
